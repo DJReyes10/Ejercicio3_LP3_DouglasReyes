@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3_Lenguaje3(Douglas Reyes)", "Ejercicio3_Lenguaje3(Douglas Reyes)\Ejercicio3_Lenguaje3(Douglas Reyes).csproj", "{A7A63C37-C67D-4600-BF12-7341D254C443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassUsario", "ClassUsario\ClassUsario.csproj", "{5E2ABD11-4754-4CDC-9EBD-93311F01D9E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A63C37-C67D-4600-BF12-7341D254C443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A63C37-C67D-4600-BF12-7341D254C443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A63C37-C67D-4600-BF12-7341D254C443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A63C37-C67D-4600-BF12-7341D254C443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2ABD11-4754-4CDC-9EBD-93311F01D9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2ABD11-4754-4CDC-9EBD-93311F01D9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2ABD11-4754-4CDC-9EBD-93311F01D9E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2ABD11-4754-4CDC-9EBD-93311F01D9E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C93DE0-98BC-4E12-AAB0-1E4BCEDFF2B1}
+	EndGlobalSection
+EndGlobal
